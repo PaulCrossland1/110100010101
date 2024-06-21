@@ -1,9 +1,9 @@
 {
   "name": "Carbon",
   "symbol": "CARBON",
-  "uri": "www.carbontoken.io",
+  "uri": "https://raw.githubusercontent.com/PaulCrossland1/110100010101/main/metadata.json",
   "description": "Our mission is to combat climate change by funding and supporting projects that effectively sequester carbon dioxide from the atmosphere. By utilizing blockchain technology, we ensure transparency, traceability, and accountability in every investment made through the Carbon Credit Coin platform.",
-  "image": "https://github.com/PaulCrossland1/110100010101/blob/main/logo.png",
+  "image": "https://raw.githubusercontent.com/PaulCrossland1/110100010101/main/logo.png",
   "seller_fee_basis_points": 500,
   "attributes": [
     {
@@ -25,7 +25,7 @@
     ],
     "files": [
       {
-        "uri": "https://github.com/PaulCrossland1/110100010101/blob/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/PaulCrossland1/110100010101/main/logo.png",
         "type": "image/png"
       }
     ]
